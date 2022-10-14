@@ -1,16 +1,9 @@
-# animated_number_selector_flutter
+# Custom Widget - Animated Number Selector
 
-A new Flutter project.
+This widget was created without any package.
 
-## Getting Started
+![Logo](https://i.imgur.com/d29ixhC.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+![Demo](https://media.giphy.com/media/D0rB7MzjAIaJPYICCy/giphy.gif)
